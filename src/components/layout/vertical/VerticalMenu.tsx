@@ -10,6 +10,7 @@ import type { VerticalMenuContextProps } from '@menu/components/vertical-menu/Me
 
 // Component Imports
 import { Menu, SubMenu, MenuItem, MenuSection } from '@menu/vertical-menu'
+import Link from "next/link"
 
 // Hook Imports
 import useVerticalNav from '@menu/hooks/useVerticalNav'
