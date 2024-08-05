@@ -76,6 +76,9 @@ const VerticalMenu = ({ scrollMenu }: { scrollMenu: (container: any, isPerfectSc
             <MenuItem href={`${process.env.NEXT_PUBLIC_PRO_URL}/front-pages/payment`} target='_blank'>
               Product Reviews
             </MenuItem>
+            <MenuItem href={`${process.env.NEXT_PUBLIC_PRO_URL}/front-pages/payment`} target='_blank'>
+              All Product 
+            </MenuItem>
           </SubMenu>
         </SubMenu>
         {/* <MenuSection label='Apps & Pages'>
